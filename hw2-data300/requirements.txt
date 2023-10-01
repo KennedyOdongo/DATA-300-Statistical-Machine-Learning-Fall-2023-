@@ -1,0 +1,10 @@
+pandas==1.4.4
+numpy==1.21.5
+pmdarima==2.0.3
+statsmodels==0.13.2
+matplotlib==3.5.2
+ydata_profiling==4.5.1
+sweetviz==2.2.1
+statsmodels==0.13.2
+scikit-learn==1.0.2
+warnings
